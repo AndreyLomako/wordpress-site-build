@@ -1,0 +1,4 @@
+interface:
+  display_name: "Создание сайтов на WordPress"
+  short_description: "Темы WordPress с ACF и общими настройками"
+  default_prompt: "Используй $wordpress-site-build, чтобы создать сайт на WordPress с редактируемым контентом и настройками темы."
