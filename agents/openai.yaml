@@ -1,4 +1,4 @@
 interface:
-  display_name: "Создание сайтов на WordPress"
-  short_description: "Темы WordPress с ACF и общими настройками"
-  default_prompt: "Используй $wordpress-site-build, чтобы создать сайт на WordPress с редактируемым контентом и настройками темы."
+  display_name: "Создание нового сайта на WordPress"
+  short_description: "Новый WP-сайт по заданию или макету с ACF и CF7"
+  default_prompt: "Используй $wordpress-site-build, чтобы создать новый сайт на WordPress по заданию или макету с ACF, Contact Form 7 и общими настройками темы."
